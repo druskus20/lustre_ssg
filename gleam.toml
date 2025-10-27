@@ -6,8 +6,8 @@ gleam = ">= 1.6.0"
 licences = ["MIT"]
 repository = { type = "github", user = "lustre-labs", repo = "ssg" }
 links = [
-    { title = "Website", href = "https://lustre.build" },
-    { title = "Sponsor", href = "https://github.com/sponsors/hayleigh-dot-dev" },
+  { title = "Website", href = "https://lustre.build" },
+  { title = "Sponsor", href = "https://github.com/sponsors/hayleigh-dot-dev" },
 ]
 
 [dependencies]
@@ -18,4 +18,4 @@ jot = ">= 5.0.0 and < 6.0.0"
 lustre = ">= 5.0.0 and < 6.0.0"
 simplifile = ">= 2.0.1 and < 3.0.0"
 temporary = ">= 1.0.0 and < 2.0.0"
-tom = ">= 1.0.0 and < 2.0.0"
+tom = ">= 1.0.0 and < 3.0.0"
